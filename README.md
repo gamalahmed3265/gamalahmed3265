@@ -1,6 +1,7 @@
 <!-- ![header](https://user-images.githubusercontent.com/75225936/229409784-dea1757c-ea1b-42d8-9498-db64ea0bf783.gif) -->
 <h1 align="center">Hi 👋, I'm Gamal ahmed</h1>
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
+<h3 align="center">I’m currently learning deep learing &Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamalahmed3265&label=Profile%20views&color=0e75b6&style=flat" alt="gamalahmed3265" /> </p>
 
