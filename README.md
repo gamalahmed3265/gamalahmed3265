@@ -21,8 +21,8 @@
 <a href="https://www.behance.net/gamalahmed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gamalahmed9" height="30" width="40" /></a>
 <a href="https://medium.com/gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gamalahmed3265" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gamalahmedelsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamalahmedelsayed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gamalahmed3265" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gamal_ahmed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamal_ahmed12" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gamalahmed3265" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/gamal_ahmed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamal_ahmed12" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
