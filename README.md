@@ -3,6 +3,20 @@
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
 <h3 align="center">I’m currently learning deep learing &Computer Vision</h3>
 
+## 👀 I’m interested in ...
+* Reactjs
+* Mongodb
+* Flutter
+* Django
+* Flask
+* Python
+* Data Structure
+* Algorithms 
+* Machine Learning 
+* Deep learing 
+* Computer vision 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamalahmed3265&label=Profile%20views&color=0e75b6&style=flat" alt="gamalahmed3265" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamalahmed3265" alt="gamalahmed3265" /></a> </p>
