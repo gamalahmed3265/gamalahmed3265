@@ -56,10 +56,7 @@
 <p>
 
 An operating system (OS) is system software that manages computer hardware and software resources
-
 <p>
-  <a href="https://github.com/gamalahmed3265/Operating-Systems" target="_blank"> <img src="https://github.com/gamalahmed3265/gamalahmed3265/assets/75225936/d1e82e9a-bd58-411b-98c3-6ad9ae90d0ec" width="25" height="25"/> Operating Systems
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
 <hr>
 
     
