@@ -48,3 +48,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamalahmed3265&show_icons=true&locale=en" alt="gamalahmed3265" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamalahmed3265&" alt="gamalahmed3265" /></p>
+
+
+### Operating Systems
+An operating system (OS) is system software that manages computer hardware and software resources
+
+<p>
+
+  <a href="https://github.com/gamalahmed3265/Operating-Systems" target="_blank">
+    <img alt="Operating Systems" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<p>
+
+<hr>
