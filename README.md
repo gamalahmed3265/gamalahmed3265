@@ -50,7 +50,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamalahmed3265&" alt="gamalahmed3265" /></p>
 
 
-###  <a href="https://github.com/gamalahmed3265/Operating-Systems" target="_blank"> <img src="https://github.com/gamalahmed3265/gamalahmed3265/assets/75225936/d1e82e9a-bd58-411b-98c3-6ad9ae90d0ec" width="75" height="75"/> Operating Systems </a>
+###  <a href="https://github.com/gamalahmed3265/Operating-Systems" target="_blank"> <img src="https://github.com/gamalahmed3265/gamalahmed3265/assets/75225936/d1e82e9a-bd58-411b-98c3-6ad9ae90d0ec" width="25" height="25"/> Operating Systems </a>
 
 <p>
 
