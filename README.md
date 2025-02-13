@@ -24,9 +24,8 @@
 
 <p align="left">
  <a href="https://twitter.com/gamalahmmed7264" target="blank">
- <img src="https://img.shields.io/twitter/follow/gamalah74468190?logo=twitter&style=for-the-badge" alt="gamalahmmed7264" />
+ <img src="https://img.shields.io/twitter/follow/gamalahmmed7264?logo=twitter&style=for-the-badge" alt="gamalahmmed7264" />
 </a>
- gamalahmmed7264
 </p>
 
 <h3 align="left">Connect with me:</h3>
