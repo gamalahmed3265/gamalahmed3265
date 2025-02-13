@@ -22,22 +22,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamalahmed3265" alt="gamalahmed3265" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gamalah74468190" target="blank"><img src="https://img.shields.io/twitter/follow/gamalah74468190?logo=twitter&style=for-the-badge" alt="gamalah74468190" /></a> </p>
+<p align="left">
+ <a href="https://twitter.com/gamalahmmed7264" target="blank">
+ <img src="https://img.shields.io/twitter/follow/gamalah74468190?logo=twitter&style=for-the-badge" alt="gamalahmmed7264" />
+</a>
+ gamalahmmed7264
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gamal3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gamal3265" height="30" width="40" /></a>
-<a href="https://twitter.com/gamalah74468190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamalah74468190" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gamal-ahmed-1526281b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamal-ahmed-1526281b8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15612775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15612775" height="30" width="40" /></a>
-<a href="https://kaggle.com/gamalahmed32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gamalahmed32" height="30" width="40" /></a>
-<a href="https://fb.com/gamal.ahmed.hassen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gamal.ahmed.hassen" height="30" width="40" /></a>
-<a href="https://instagram.com/gamal_ahmed___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamal_ahmed___" height="30" width="40" /></a>
+<a href="https://twitter.com/gamalahmmed7264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamalahmmed7264" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gamalahmed3265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamalahmed3265" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15612775/gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15612775" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/gamalahmed32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gamalahmed32" height="30" width="40" /></a>
+<a href="https://www.facebook.com/gamalahmed3265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gamalahmed3265" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gamalahmed3265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamal_ahmed___" height="30" width="40" /></a>
 <a href="https://www.behance.net/gamalahmed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gamalahmed9" height="30" width="40" /></a>
-<a href="https://medium.com/gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gamalahmed3265" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamalahmedelsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamalahmedelsayed" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gamalahmed3265" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/gamal_ahmed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamal_ahmed12" height="30" width="40" /></a> -->
+<a href="https://medium.com/@gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gamalahmed3265" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamalahmedelsayed" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gamalahmed3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gamalahmed3265" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gamalahmed3265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamal_ahmed12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,7 +52,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamalahmed3265&show_icons=true&locale=en" alt="gamalahmed3265" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamalahmed3265&" alt="gamalahmed3265" /></p>
 
 <h2> Samples from my projects </h2>
 
