@@ -8,6 +8,7 @@
 * Nodejs
 * Mongodb
 * Flutter
+* FastAPI
 * Django
 * Flask
 * Python
