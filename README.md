@@ -4,6 +4,7 @@
 
 ## 👀 I’m interested in ...
 * Reactjs
+* Nextjs
 * Nodejs
 * Mongodb
 * Flutter
