@@ -7,6 +7,8 @@
 * Nextjs
 * Nodejs
 * Mongodb
+* MYSQL
+* Postgresql
 * Flutter
 * FastAPI
 * Django
