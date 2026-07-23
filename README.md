@@ -58,50 +58,70 @@
 
 <!-- CREATIVE PROJECT CARDS (PULLED FROM PORTFOLIO) -->
 <h2 align="center"> 📁 Project Spotlights </h2>
+<h2 align="center"> 📁 All Projects </h2>
 
-<div align="center">
-  <table border="1" cellspacing="0" cellpadding="15" style="border-color: #30363d; background-color: #0d1117; border-radius: 8px;">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <h3>🤖 Robot Egg Collection System</h3>
-        <p>An intelligent robot designed to collect eggs in poultry farms quickly and accurately.</p>
-        <p><i>Python • YOLO • Computer Vision • Robotics</i></p>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <h3>📱 <a href="https://play.google.com/store/apps/details?id=com.betify.app" target="_blank">Betify</a></h3>
-        <p>A smart real estate platform that helps users discover and purchase premium properties.</p>
-        <p><i>Flutter • Node.js • Firebase • MongoDB</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <h3>🎮 <a href="https://black-aura.net/" target="_blank">Black Aura</a></h3>
-        <p>A digital character platform combining collecting, challenging, and trading.</p>
-        <p><i>Next.js • Flutter • Laravel • MySQL</i></p>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <h3>🚌 <a href="https://tride-app.com/" target="_blank">TRide - Smart Transportation</a></h3>
-        <p>A secure school transportation solution with real-time tracking and instant notifications.</p>
-        <p><i>Node.js • Next.js • Flutter • Socket.io</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <h3>📝 <a href="https://blog-nextjs-omega-lilac.vercel.app/" target="_blank">Blog App with Next.js</a></h3>
-        <p>A modern, full-stack blog platform using Clerk authentication and Tiptap rich-text editing.</p>
-        <p><i>Next.js • React • Prisma • Supabase</i></p>
-      </td>
-       <td align="center" width="50%" valign="top">
-        <h3>📦 <a href="https://github.com/gamalahmed3265/-Inventory-Management-App" target="_blank">MERN Inventory Management</a></h3>
-        <p>Full-stack system with secure JWT auth, Cloudinary uploads, and Nodemailer.</p>
-        <p><i>React • Node.js • Express • MongoDB</i></p>
-      </td>
-    </tr>
-  </table>
+<details>
+  <summary><b>✨ Click to expand my full portfolio of 50+ projects</b></summary>
   <br>
-  <i><a href="https://gamalahmed.vercel.app/projects" target="_blank">View all 50+ projects on my portfolio ➔</a></i>
-</div>
-
+  <ul>
+    <li>🤖 Robot Egg Collection System</li>
+    <li>📱 <a href="https://play.google.com/store/apps/details?id=com.betify.app">Betify</a></li>
+    <li>🎮 <a href="https://black-aura.net/">Black Aura</a></li>
+    <li>🚗 <a href="https://washcarrent.info">WashCar - Mobile Car Wash & Rental</a></li>
+    <li>🏨 Hotel Booking Platform</li>
+    <li>🚌 <a href="https://tride-app.com/">TRide - Smart & Secure School Transportation App</a></li>
+    <li>🩺 <a href="https://play.google.com/store/apps/details?id=com.nursy.app">Nursy - Home Nursing Services</a></li>
+    <li>💼 Job & Chat Platform</li>
+    <li>🛒 <a href="https://eshope-app.vercel.app/">Eshope E-commerce</a></li>
+    <li>🍕 <a href="https://food-ordering-app-alpha-steel.vercel.app/ar">Pizza Ordering Dashboard</a></li>
+    <li>🍔 <a href="https://classafoods.com/">ClassaFoods</a></li>
+    <li>👥 <a href="https://alrehab-eg.com">Alrehab Staffing Services</a></li>
+    <li>👩‍⚕️ <a href="https://drhebametwally.com">Dr. Heba Metwally Website</a></li>
+    <li>🦷 <a href="https://innovadentalclinics.com">Innova Dental Clinics</a></li>
+    <li>🏥 <a href="https://highline.cangrowonline.com/">Highline Medical</a></li>
+    <li>☀️ <a href="https://cairosolar.com">Cairo Solar</a></li>
+    <li>🚖 <a href="https://uber-captain.com">Uber Captain</a></li>
+    <li>🛗 <a href="https://shtegin.com">Shtegin Elevators</a></li>
+    <li>🦷 <a href="https://tooth-guard.com">Tooth Guard Clinics</a></li>
+    <li>🏠 <a href="https://nursinghouse.net">Nursing House</a></li>
+    <li>🛋️ <a href="https://modernhouse-egypt.com">Modern House</a></li>
+    <li>🛣️ <a href="https://www.mwmgulddalsystems.com/ar/index.php">MWM Gulddal Systems</a></li>
+    <li>🎓 <a href="https://www.pcertified.com/">Professional Engineers</a></li>
+    <li>🔌 <a href="https://plugyev.com/ar">Plugy</a></li>
+    <li>🎁 <a href="https://oybgiveaways.com/">OYB Giveaways</a></li>
+    <li>🧹 <a href="https://alamal-cleaning.com/">Al Amal Cleaning & Maintenance</a></li>
+    <li>📰 <a href="https://thmanyah-gray.vercel.app/">Thmanyah</a></li>
+    <li>⚽ <a href="https://yallakora-flask-show-match.vercel.app/">Yalla Kora Flask Show Match</a></li>
+    <li>📝 <a href="https://blog-nextjs-omega-lilac.vercel.app/">Blog App with Next.js</a></li>
+    <li>🏗️ <a href="https://emocoegypt.com/">EMOCO - Engineered Modern Operations</a></li>
+    <li>⏱️ <a href="https://dwamee.com/">Dwamee</a></li>
+    <li>🎨 <a href="https://algebaly-visuals.com/en">Algebaly Visuals</a></li>
+    <li>📦 <a href="https://aps-dev.smarthyperion.co.uk/">APS - Parcel Shipping Rate Comparison</a></li>
+    <li>🤝 <a href="https://dareltawfik.org/">Dar El Tawfik - Charitable Foundation</a></li>
+    <li>🥩 <a href="https://mtc-horizon.com/ar">MTC Horizon - Meat Technology Complex</a></li>
+    <li>💧 <a href="https://elnourtank.com/en">El Nour Tank - High Quality Water Tank Manufacturer</a></li>
+    <li>🚗 <a href="https://uber-driver.net/en">Join Uber as a Driver in Egypt - Uber Driver</a></li>
+    <li>👁️ <a href="https://abdelrhmanshams.com/en">Dr. Abdelrahman Shams - Eye Surgeon</a></li>
+    <li>🫀 <a href="https://drmohamedelalfy.com/en">Dr. Mohamed El Alfy - Cardiac Electrophysiology</a></li>
+    <li>📊 Inventory and Sales Management System</li>
+    <li>📋 <a href="https://to-do-dashboard-nextjs-mui.vercel.app/">Premium Kanban ToDo Dashboard with Next.js & MUI</a></li>
+    <li>📈 <a href="https://ifoe-sa.com/">IFOE - Franchise & Investment Solutions</a></li>
+    <li>🥗 <a href="https://healthifyme.top/">HealthifyMe</a></li>
+    <li>📦 <a href="https://github.com/gamalahmed3265/-Inventory-Management-App">MERN Inventory Management System</a></li>
+    <li>🏨 Fixyland Luxury Hotel Website</li>
+    <li>🏢 Real Estate Management System</li>
+    <li>📱 Mobile Store CRM</li>
+    <li>📓 <a href="https://github.com/gamalahmed3265/Notes-App-flutter">Notes App</a></li>
+    <li>💬 <a href="https://github.com/gamalahmed3265/Social-Media-App">Social Media App</a></li>
+    <li>🩺 <a href="https://github.com/gamalahmed3265/Doctor-Booking-App-With-Flutter">Doctor Booking App With Flutter</a></li>
+    <li>🗺️ <a href="https://github.com/gamalahmed3265/Uber-like-Maps-With-Google-Maps-Platform">Uber-like Maps With Google Maps Platform</a></li>
+    <li>✈️ <a href="https://github.com/gamalahmed3265/Tourism">Tourism App</a></li>
+    <li>💬 <a href="https://github.com/gamalahmed3265/chat-firbase">Chat / Messaging App – Flutter UI</a></li>
+    <li>🛍️ <a href="https://github.com/gamalahmed3265/E-Commerce-Posts">E-Commerce Posts App</a></li>
+    <li>⛅ <a href="https://github.com/gamalahmed3265/Ethio-Weather">Ethio Weather Mobile Application</a></li>
+    <li>🛒 <a href="https://github.com/gamalahmed3265/ecommerc-app">E-Commerce Mobile App</a></li>
+  </ul>
+</details>
 ###
 
 <!-- UNIFIED VISUAL STATS -->
