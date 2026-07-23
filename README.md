@@ -63,31 +63,43 @@
   <table border="1" cellspacing="0" cellpadding="15" style="border-color: #30363d; background-color: #0d1117; border-radius: 8px;">
     <tr>
       <td align="center" width="50%" valign="top">
-        <h3>🤖 <a href="https://github.com/gamalahmed3265" target="_blank">Robot Egg Collection System</a></h3>
-        <p>An intelligent robot designed to collect eggs in poultry farms quickly and accurately while avoiding breakage and detecting diseases.</p>
-        <p><i>Python • YOLO • Computer Vision • Machine Learning</i></p>
+        <h3>🤖 Robot Egg Collection System</h3>
+        <p>An intelligent robot designed to collect eggs in poultry farms quickly and accurately.</p>
+        <p><i>Python • YOLO • Computer Vision • Robotics</i></p>
       </td>
       <td align="center" width="50%" valign="top">
-        <h3>🚗 <a href="https://github.com/gamalahmed3265" target="_blank">WashCar - Mobile Car Wash</a></h3>
-        <p>Full-service platform for mobile car wash and rental services with real-time booking and payment processing.</p>
-        <p><i>Next.js • React • TypeScript • Tailwind CSS</i></p>
+        <h3>📱 <a href="https://play.google.com/store/apps/details?id=com.betify.app" target="_blank">Betify</a></h3>
+        <p>A smart real estate platform that helps users discover and purchase premium properties.</p>
+        <p><i>Flutter • Node.js • Firebase • MongoDB</i></p>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" valign="top">
-        <h3>🚌 <a href="https://github.com/gamalahmed3265" target="_blank">TRide - Smart Transportation App</a></h3>
-        <p>A secure school transportation solution for booking private cars or shared rides with real-time tracking.</p>
-        <p><i>Node.js • Express • MongoDB • Redis</i></p>
+        <h3>🎮 <a href="https://black-aura.net/" target="_blank">Black Aura</a></h3>
+        <p>A digital character platform combining collecting, challenging, and trading.</p>
+        <p><i>Next.js • Flutter • Laravel • MySQL</i></p>
       </td>
       <td align="center" width="50%" valign="top">
-        <h3>📝 <a href="https://github.com/gamalahmed3265/nextjs-blog" target="_blank">Modern Blog App with Next.js</a></h3>
-        <p>Full-stack blog platform using Next.js 15, Clerk authentication, Tiptap rich-text editing, and Prisma ORM.</p>
-        <p><i>Next.js • Prisma • Clerk • Tailwind UI</i></p>
+        <h3>🚌 <a href="https://tride-app.com/" target="_blank">TRide - Smart Transportation</a></h3>
+        <p>A secure school transportation solution with real-time tracking and instant notifications.</p>
+        <p><i>Node.js • Next.js • Flutter • Socket.io</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <h3>📝 <a href="https://blog-nextjs-omega-lilac.vercel.app/" target="_blank">Blog App with Next.js</a></h3>
+        <p>A modern, full-stack blog platform using Clerk authentication and Tiptap rich-text editing.</p>
+        <p><i>Next.js • React • Prisma • Supabase</i></p>
+      </td>
+       <td align="center" width="50%" valign="top">
+        <h3>📦 <a href="https://github.com/gamalahmed3265/-Inventory-Management-App" target="_blank">MERN Inventory Management</a></h3>
+        <p>Full-stack system with secure JWT auth, Cloudinary uploads, and Nodemailer.</p>
+        <p><i>React • Node.js • Express • MongoDB</i></p>
       </td>
     </tr>
   </table>
   <br>
-  <i><a href="https://gamalahmed.vercel.app/projects" target="_blank">View all 30+ projects on my portfolio ➔</a></i>
+  <i><a href="https://gamalahmed.vercel.app/projects" target="_blank">View all 50+ projects on my portfolio ➔</a></i>
 </div>
 
 ###
@@ -105,7 +117,7 @@
 
 ###
 
-<!-- PROFESSIONAL SOCIAL BADGES (SYNCED WITH PORTFOLIO) -->
+<!-- PROFESSIONAL SOCIAL BADGES -->
 <h2 align="center">Connect & Collaborate</h2>
 <div data-importer="socials" align="center">
   <a href="https://gamalahmed.vercel.app/" target="_blank">
@@ -117,20 +129,20 @@
   <a href="https://twitter.com/gamalahmmed7264" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
-  <a href="https://stackoverflow.com/users/15612775/gamal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Stack Overflow" />
-  </a>
-  <a href="https://leetcode.com/u/gamalahmed3265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode" />
+  <a href="https://www.kaggle.com/gamalahmed32" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle" />
   </a>
   <a href="https://wa.me/201210023987" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp" />
   </a>
-  <a href="https://www.facebook.com/gamalahmed3265/" target="_blank">
+  <a href="https://www.facebook.com/gamalahmed3265" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/gamalahmed3265/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="https://cssbattle.dev/player/gamal3265" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CSSBattle&logo=css3&label=&color=1565C0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CSSBattle" />
   </a>
   <a href="mailto:gamalahmed3265@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email_Me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
