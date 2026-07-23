@@ -1,9 +1,3 @@
-<!-- VISUAL HEADER (DYNAMIC BANNER) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamalahmed3265/gamalahmed3265/main/image_0.png">
-  <img alt="Gamal Ahmed | Full Stack & ML/CV Engineer" src="https://raw.githubusercontent.com/gamalahmed3265/gamalahmed3265/main/image_0.png" width="100%">
-</picture>
-
 <h1 align="center">Hi 👋, I'm Gamal Ahmed</h1>
 <h3 align="center">A passionate Full Stack & Mobile Software Engineer from Egypt 🇪🇬</h3>
 
@@ -15,25 +9,52 @@
   <img src="https://komarev.com/ghpvc/?username=gamalahmed3265&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
 </p>
 
-###
+---
 
-<!-- THE TECH VIZ -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- CREATIVE TECH STACK SPLIT -->
+<h2 align="center">💻 Tech Stack & Ecosystem</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,sass,nodejs,express,django,flask,python,opencv,pytorch,tensorflow,dart,flutter,mongodb,mysql,postgres,git,linux,aws,docker,figma&perline=12" alt="Gamal's Tech Stack" />
+  <br>
+  <h3>🌐 Web Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,sass,bootstrap,html,css&theme=dark" alt="Frontend" />
+  </p>
+  
+  <br>
+  <h3>⚙️ Backend & Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,prisma&theme=dark" alt="Backend" />
+  </p>
+
+  <br>
+  <h3>🧠 AI & Computer Vision</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow&theme=dark" alt="AI & ML" />
+  </p>
+
+  <br>
+  <h3>📱 Mobile Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark" alt="Mobile" />
+  </p>
+
+  <br>
+  <h3>🛠️ Architecture & DevOps</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,nginx,figma,postman&theme=dark" alt="Tools" />
+  </p>
 </div>
 
-###
+---
 
-<!-- DYNAMIC CONTRIBUTION GRAPH -->
-<h2 align="center">👾 GitHub Contributions</h2>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamalahmed3265/gamalahmed3265/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamalahmed3265/gamalahmed3265/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/gamalahmed3265/gamalahmed3265/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
-</picture>
+<!-- WORKING DYNAMIC ACTIVITY GRAPH -->
+<h2 align="center">📈 GitHub Activity & Contributions</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamalahmed3265&theme=dracula&hide_border=true&bg_color=0d1117" alt="Gamal's Activity Graph" width="100%" />
+</p>
 
-###
+---
 
 <!-- ALL PROJECTS LIST -->
 <h2 align="center"> 📁 Full Portfolio & Projects </h2>
@@ -103,7 +124,7 @@
   </ul>
 </details>
 
-###
+---
 
 <!-- UNIFIED VISUAL STATS -->
 <h2 align="center">📊 Developer Ecosystem</h2>
@@ -116,9 +137,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gamalahmed3265&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophy Graph" />
 </p>
 
-###
+---
 
-<!-- PROFESSIONAL SOCIAL BADGES (USING EXACT LINKS) -->
+<!-- PROFESSIONAL SOCIAL BADGES -->
 <h2 align="center">Connect & Collaborate</h2>
 <div data-importer="socials" align="center">
   <a href="https://github.com/gamalahmed3265" target="_blank">
